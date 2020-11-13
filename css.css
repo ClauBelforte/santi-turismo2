@@ -1,0 +1,51 @@
+body{
+  background-color: palevioletred;
+  
+}
+
+h1{
+  color:rgb(59, 59, 122);
+  font-size: 40rem;
+}
+
+.servicios-detalles {
+     position: absolute;
+     bottom: 25px;
+     left: 25px;
+     z-index: 9000;
+}
+
+.servicios-container {
+    position: relative;
+    overflow: hidden;
+    margin: 10px 0;
+    border-radius: 2px;
+}
+
+.logo-brand {
+    min-width: 180px;
+    max-width: 220px;
+}
+
+.container{
+  font-family: cursive;
+  
+  
+}
+
+.servicios-detalles h2, .servicios-detalles p {
+    color: white;
+}
+
+.destinos{
+  font-size: 30px;
+  color: black;
+  font-family:  Helvetica, sans-serif;
+}
+
+#footer {
+    padding: 80px 0;
+    text-align: center;
+    color: #ffffff;
+    background-color: rgb(231, 227, 227) !important;
+}
